@@ -13,7 +13,7 @@ def multiplication():
 def division():
   return(a/b)
 
-print(sum)
-print(subtract)
-print(multiplication)
-print(division)
+print(sum())
+print(subtract())
+print(multiplication())
+print(division())
