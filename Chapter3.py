@@ -1,4 +1,4 @@
-a = 10
+a = 10 # global variable
 b = 5
 
 def sum():
