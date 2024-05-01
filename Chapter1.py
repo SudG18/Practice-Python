@@ -6,4 +6,4 @@ print(name.lower())
 numbers = range(1:100)
 for number in range:
   if number%3=0:
-  print(number +": is Odd")
+    print(number +": is Odd")
